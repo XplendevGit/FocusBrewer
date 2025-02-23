@@ -1,0 +1,17 @@
+export const coffeeSkins = [
+    { name: 'Espresso', unlocked: true, requirement: 'Disponible por defecto.' },
+    { name: 'Latte', unlocked: false, requirement: 'Completa 3 sesiones de 25 minutos.' },
+    { name: 'Cappuccino', unlocked: false, requirement: 'Completa 5 sesiones de 45 minutos.' },
+    { name: 'Mocaccino', unlocked: false, requirement: 'Completa 10 sesiones de 60 minutos.' },
+    { name: 'Americano', unlocked: false, requirement: 'Acumula 2 horas de concentración total.' },
+    { name: 'Flat White', unlocked: false, requirement: 'Completa 15 sesiones.' },
+    { name: 'Cortado', unlocked: false, requirement: 'Completa 20 sesiones sin interrupciones.' },
+    { name: 'Ristretto', unlocked: false, requirement: 'Alcanza 25 sesiones totales.' },
+    { name: 'Lungo', unlocked: false, requirement: 'Completa 5 sesiones consecutivas.' },
+    { name: 'Irish Coffee', unlocked: false, requirement: 'Utiliza la app 7 días seguidos.' },
+    { name: 'Affogato', unlocked: false, requirement: 'Llega a 50 sesiones totales.' },
+    { name: 'Breve', unlocked: false, requirement: 'Suma 10 horas de concentración.' },
+    { name: 'Red Eye', unlocked: false, requirement: 'Realiza una sesión de 90 minutos.' },
+    { name: 'Black Eye', unlocked: false, requirement: 'Completa una sesión de 120 minutos.' },
+    { name: 'Doppio', unlocked: false, requirement: 'Desbloquea tras 100 sesiones.' },
+  ];
