@@ -33,9 +33,9 @@ export default function HomeScreen() {
   };
 
   return (
-    <View className="flex-1 bg-gray-100 px-4 py-8">
+    <View className="flex-1 bg-gray-100 px-4 py-8 pt-36 pb-20">
       {/* Título */}
-      <Text className="text-3xl font-bold text-center text-blue-600 mb-6">
+      <Text className="text-3xl font-bold text-center text-green-500 mb-6">
         ¡Listo para comenzar tu sesión de Focus!
       </Text>
 
